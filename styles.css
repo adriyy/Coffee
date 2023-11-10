@@ -1,0 +1,77 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+nav {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    display: inline;
+    margin: 0 20px;
+}
+
+li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos específicos para a cafeteria */
+.produto {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.produto a {
+    text-decoration: none;
+    color: #333;
+}
+
+.produto img {
+    max-width: 100%;
+}
+
+/* Outros estilos personalizados */
+h2 {
+    color: #333;
+}
+
+h3 {
+    color: #333;
+}
+
+p {
+    line-height: 1.4;
+}
