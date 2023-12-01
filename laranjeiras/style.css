@@ -1,0 +1,70 @@
+
+    body {
+      font-family: 'Georgia', serif;
+      margin: 0;
+      padding: 0;
+      background-color: #E65715;
+    }
+
+    header {
+      color: #333;
+      text-align: center;
+      padding: 1em;
+      background-image: url(./icon\ logo.jpeg);
+    }
+
+    section {
+      padding: 2em;
+      background-color: #fff;
+      margin: 20px 0;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    h2 {
+      color: #E67715;
+    }
+
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    img {
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      width: 15%;
+      height: 15%;
+    }
+
+    footer {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 1em;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+
+    .imagens-lugar {
+        justify-content: space-between;
+    }
+
+    .imagens-lugar img {
+        width: 12.5%;
+        height: 12.5%;
+        margin: 20px 20px;
+    }
+
+    .imagens-lugar img:hover {
+        width: 25%;
+        height: 25%;
+        margin: 20px 20px;
+    }  
+
+  
